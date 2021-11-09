@@ -22,13 +22,17 @@ AnimationClip:
     - time: 0
       value: {fileID: -8912304941135482, guid: 5873fe76766fb2247a6092a4f419d532, type: 3}
     - time: 0.25
-      value: {fileID: -1293317188431044195, guid: 5873fe76766fb2247a6092a4f419d532, type: 3}
+      value: {fileID: -1293317188431044195, guid: 5873fe76766fb2247a6092a4f419d532,
+        type: 3}
     - time: 0.5
-      value: {fileID: -9084924578732954106, guid: 5873fe76766fb2247a6092a4f419d532, type: 3}
+      value: {fileID: -9084924578732954106, guid: 5873fe76766fb2247a6092a4f419d532,
+        type: 3}
     - time: 0.75
-      value: {fileID: -5322908184132242935, guid: 5873fe76766fb2247a6092a4f419d532, type: 3}
+      value: {fileID: -5322908184132242935, guid: 5873fe76766fb2247a6092a4f419d532,
+        type: 3}
     - time: 1
-      value: {fileID: 4227231100368431880, guid: 5873fe76766fb2247a6092a4f419d532, type: 3}
+      value: {fileID: 4227231100368431880, guid: 5873fe76766fb2247a6092a4f419d532,
+        type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
