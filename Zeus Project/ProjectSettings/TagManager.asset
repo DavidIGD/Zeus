@@ -4,12 +4,12 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - TutorialRequirement
+  - Cherry
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - ground
   - Water
   - UI
   - 
